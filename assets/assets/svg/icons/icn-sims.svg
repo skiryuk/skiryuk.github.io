@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="30" viewBox="0 0 25 30">
+    <defs>
+        <linearGradient id="a" x1="86.201%" x2="42.899%" y1="31.372%" y2="60.379%">
+            <stop offset="0%" stop-color="#FAC12B"/>
+            <stop offset="100%" stop-color="#F6A000"/>
+        </linearGradient>
+        <linearGradient id="c" x1="64.24%" x2="0%" y1="22.565%" y2="77.435%">
+            <stop offset="0%" stop-color="#9E8A76"/>
+            <stop offset="100%" stop-color="#473525"/>
+        </linearGradient>
+        <path id="b" d="M-1.113 23.5h22.277c1.298 0 2.336-1.02 2.336-2.296v-11.15c0-.637-.26-1.19-.735-1.657l-4.896-4.26c-.432-.424-1.038-.637-1.644-.637h-17.39C-2.461 3.5-3.5 4.52-3.5 5.796l.007 15.408a2.372 2.372 0 0 0 2.38 2.296z"/>
+        <linearGradient id="e" x1="68.192%" x2="0%" y1="22.565%" y2="77.435%">
+            <stop offset="0%" stop-color="#FFD475"/>
+            <stop offset="100%" stop-color="#E6960F"/>
+        </linearGradient>
+        <path id="d" d="M3.887 26.5h22.277c1.298 0 2.336-1.02 2.336-2.296v-11.15c0-.637-.26-1.19-.735-1.657l-4.896-4.26c-.432-.424-1.038-.637-1.644-.637H3.835C2.539 6.5 1.5 7.52 1.5 8.796l.007 15.408a2.372 2.372 0 0 0 2.38 2.296z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero" transform="matrix(0 -1 -1 0 23.5 23.5)">
+            <use fill="url(#a)" xlink:href="#b"/>
+            <use fill="url(#c)" xlink:href="#b"/>
+        </g>
+        <g fill-rule="nonzero" transform="matrix(0 -1 -1 0 31.5 31.5)">
+            <use fill="url(#a)" xlink:href="#d"/>
+            <use fill="url(#e)" xlink:href="#d"/>
+        </g>
+        <path fill="#FEF9F0" d="M10.446 16h8.108c.789 0 1.446.679 1.446 1.493v7.014C20 25.32 19.343 26 18.554 26h-8.108C9.657 26 9 25.321 9 24.507v-7.059c0-.77.657-1.448 1.446-1.448zm8.108.905H16.45v3.62h2.63v-3.077c0-.272-.263-.543-.526-.543zm.526 7.602V21.43h-2.63v3.62h2.104c.263 0 .526-.272.526-.543zm-3.506.543v-8.145h-2.192v8.145h2.192zm-5.698-.588a.59.59 0 0 0 .57.588h2.104v-3.575H9.88l-.004 2.987zm2.674-7.557h-2.1a.59.59 0 0 0-.57.588v3.077h2.67v-3.665z"/>
+    </g>
+</svg>

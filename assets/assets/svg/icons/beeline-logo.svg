@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <path id="qdbne8nvra" d="M8.018.12c4.37 0 7.912 3.541 7.912 7.911 0 4.37-3.543 7.912-7.912 7.912-4.37 0-7.912-3.542-7.912-7.912S3.648.12 8.018.12z"/>
+        <path id="dm3ah0ffqd" d="M8.018.12c4.37 0 7.912 3.541 7.912 7.911 0 4.37-3.543 7.912-7.912 7.912-4.37 0-7.912-3.542-7.912-7.912S3.648.12 8.018.12z"/>
+        <path id="6pinf25w5e" d="M4.774 10.576L14.97 10.576 14.97 2.929 4.774 2.929z"/>
+        <path id="qvmcdwqwsf" d="M0.017 13.355L15.785 13.355 15.785 2.937 0.017 2.937z"/>
+        <path id="yvdoazjf9g" d="M0.017 16.171L16.066 16.171 16.066 0.121 0.017 0.121z"/>
+        <path id="23ltbce14i" d="M5.077 10.351L14.673 10.351 14.673 0.758 5.077 0.758z"/>
+        <path id="5z6lrm0rxj" d="M4.803 10.539L14.94 10.539 14.94 0.684 4.803 0.684z"/>
+        <path id="ni566iebmn" d="M5.648 3.218L14.095 3.218 14.095 0.684 5.648 0.684z"/>
+        <radialGradient id="1pwsj0uj3k" cx="61.741%" cy="43.459%" r="141.665%" fx="61.741%" fy="43.459%" gradientTransform="matrix(.21402 0 0 1 .485 0)">
+            <stop offset="0%" stop-color="#363738"/>
+            <stop offset="100%"/>
+        </radialGradient>
+        <radialGradient id="t2ykdyzwim" cx="61.741%" cy="43.459%" r="169.061%" fx="61.741%" fy="43.459%" gradientTransform="matrix(.17934 0 0 1 .507 0)">
+            <stop offset="0%" stop-color="#363738"/>
+            <stop offset="100%"/>
+        </radialGradient>
+        <linearGradient id="pn0v50ju5b" x1=".002%" x2="99.993%" y1="49.965%" y2="49.965%">
+            <stop offset="0%" stop-color="#FAA61A"/>
+            <stop offset="100%" stop-color="#FFE100"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="myvqm231nc" fill="#fff">
+            <use xlink:href="#qdbne8nvra"/>
+        </mask>
+        <use fill="url(#pn0v50ju5b)" fill-rule="nonzero" transform="matrix(1 0 0 -1 0 16.063)" xlink:href="#qdbne8nvra"/>
+        <g mask="url(#myvqm231nc)">
+            <use fill="url(#pn0v50ju5b)" fill-rule="nonzero" transform="matrix(1 0 0 -1 0 16.063)" xlink:href="#dm3ah0ffqd"/>
+            <mask id="0y302y56sh" fill="#fff">
+                <use xlink:href="#yvdoazjf9g"/>
+            </mask>
+            <path fill="#000" fill-rule="nonzero" d="M15.929 9.731L0.106 9.731 0.106 6.344 15.929 6.344 15.929 9.731" mask="url(#0y302y56sh)" transform="matrix(1 0 0 -1 0 16.075)"/>
+            <path fill="#000" fill-rule="nonzero" d="M15.929 15.941L0.106 15.941 0.106 13.116 15.929 13.116 15.929 15.941" mask="url(#0y302y56sh)" transform="matrix(1 0 0 -1 0 29.057)"/>
+            <path fill="#000" fill-rule="nonzero" d="M15.929 0.121L0.106 0.121 0.106 2.959 15.929 2.959 15.929 0.121" mask="url(#0y302y56sh)" transform="matrix(1 0 0 -1 0 3.08)"/>
+            <mask id="ubtljaeijl" fill="#fff">
+                <use xlink:href="#5z6lrm0rxj"/>
+            </mask>
+            <path fill="url(#1pwsj0uj3k)" fill-rule="nonzero" d="M15.929 9.731L0.106 9.731 0.106 6.344 15.929 6.344 15.929 9.731" mask="url(#ubtljaeijl)" transform="matrix(1 0 0 -1 0 16.075)"/>
+            <path fill="url(#t2ykdyzwim)" fill-rule="nonzero" d="M15.929 0.121L0.106 0.121 0.106 2.959 15.929 2.959 15.929 0.121" mask="url(#ubtljaeijl)" transform="matrix(1 0 0 -1 0 3.08)"/>
+            <mask id="zj7bkbl8mo" fill="#fff">
+                <use xlink:href="#ni566iebmn"/>
+            </mask>
+            <path fill="url(#1pwsj0uj3k)" fill-rule="nonzero" d="M15.929 9.731L0.106 9.731 0.106 6.344 15.929 6.344 15.929 9.731" mask="url(#zj7bkbl8mo)" transform="matrix(1 0 0 -1 0 16.075)"/>
+            <path fill="url(#t2ykdyzwim)" fill-rule="nonzero" d="M15.929 0.121L0.106 0.121 0.106 2.959 15.929 2.959 15.929 0.121" mask="url(#zj7bkbl8mo)" transform="matrix(1 0 0 -1 0 3.08)"/>
+        </g>
+    </g>
+</svg>

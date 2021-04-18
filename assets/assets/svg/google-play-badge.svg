@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="bqvfay37fb" x1="61.098%" x2="26.459%" y1="4.677%" y2="71.806%">
+            <stop offset="0%" stop-color="#00A0FF"/>
+            <stop offset=".657%" stop-color="#00A1FF"/>
+            <stop offset="26.01%" stop-color="#00BEFF"/>
+            <stop offset="51.22%" stop-color="#00D2FF"/>
+            <stop offset="76.04%" stop-color="#00DFFF"/>
+            <stop offset="100%" stop-color="#00E3FF"/>
+        </linearGradient>
+        <linearGradient id="63577n43xc" x1="107.998%" x2="-130.395%" y1="49.536%" y2="49.536%">
+            <stop offset="0%" stop-color="#FFE000"/>
+            <stop offset="40.87%" stop-color="#FFBD00"/>
+            <stop offset="77.54%" stop-color="orange"/>
+            <stop offset="100%" stop-color="#FF9C00"/>
+        </linearGradient>
+        <linearGradient id="jn3irwjbad" x1="86.472%" x2="-50.626%" y1="30.793%" y2="136.412%">
+            <stop offset="0%" stop-color="#FF3A44"/>
+            <stop offset="100%" stop-color="#C31162"/>
+        </linearGradient>
+        <linearGradient id="kywob8i89e" x1="-19.128%" x2="42.092%" y1="-13.925%" y2="34.556%">
+            <stop offset="0%" stop-color="#32A071"/>
+            <stop offset="6.85%" stop-color="#2DA771"/>
+            <stop offset="47.62%" stop-color="#15CF74"/>
+            <stop offset="80.09%" stop-color="#06E775"/>
+            <stop offset="100%" stop-color="#00F076"/>
+        </linearGradient>
+        <filter id="2gcffjq3ra" width="143.8%" height="143.8%" x="-21.9%" y="-21.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.398956512 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g filter="url(#2gcffjq3ra)" transform="translate(-16 -565) translate(8 557) translate(16 16)">
+                    <path fill="#FFF" d="M38.256 0H9.684C4.333 0 0 4.333 0 9.684v28.578c0 5.345 4.333 9.678 9.684 9.678h28.578c5.345 0 9.684-4.333 9.684-9.684V9.684C47.94 4.333 43.607 0 38.256 0z"/>
+                    <path fill="url(#bqvfay37fb)" d="M14.5 11.429c-.3.3-.5.8-.5 1.4v22.1c0 .6.2 1.1.5 1.4l.1.1 12.3-12.4v-.2l-12.4-12.4z"/>
+                    <path fill="url(#63577n43xc)" d="M26.9 24.029v-.2l4.062-4.07L36 22.629c1.4.8 1.4 2.1 0 2.9l-4.9 2.6-4.2-4.1z"/>
+                    <path fill="url(#jn3irwjbad)" d="M31.1 28.129l-4.2-4.2-12.4 12.4c.5.5 1.2.5 2.1.1l14.5-8.3"/>
+                    <path fill="url(#kywob8i89e)" d="M30.962 19.759L16.5 11.329c-.8-.5-1.6-.4-2 .1l12.5 12.5 3.962-4.17z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

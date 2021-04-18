@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="68px" viewBox="0 0 96 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons/Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Auth" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="app-sign_up-step4" transform="translate(-140.000000, -183.000000)" fill="#EDE1D5">
+            <g id="Icons/Envelope" transform="translate(140.000000, 183.000000)">
+                <path d="M96,16.4127273 L96,61.8181818 C96,65.2305455 93.312,68 90,68 L90,68 L6,68 C2.688,68 0,65.2305455 0,61.8181818 L0,61.8181818 L0,16.4127273 L46.83,36.8436364 C47.202,37.0105455 47.604,37.0909091 48,37.0909091 C48.396,37.0909091 48.798,37.0105455 49.17,36.8436364 L49.17,36.8436364 L96,16.4127273 Z M90,7.10542736e-15 C93.312,7.10542736e-15 96,2.76945455 96,6.18181818 L96,6.18181818 L96,9.69309091 L48,30.6432727 L0,9.69927273 L0,6.18181818 C0,2.76945455 2.688,7.10542736e-15 6,7.10542736e-15 L6,7.10542736e-15 Z" id="icn_envelope"></path>
+            </g>
+        </g>
+    </g>
+</svg>

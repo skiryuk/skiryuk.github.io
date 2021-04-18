@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <linearGradient id="wg58mdez3b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#18BFFB"/>
+            <stop offset="100%" stop-color="#2072F3"/>
+        </linearGradient>
+        <filter id="9zz38d56ha" width="143.8%" height="143.8%" x="-21.9%" y="-21.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.398956512 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g filter="url(#9zz38d56ha)" transform="translate(-16 -565) translate(8 557) translate(16 16)">
+                    <path fill="url(#wg58mdez3b)" d="M38.256 0H9.684C4.333 0 0 4.333 0 9.684v28.578c0 5.345 4.333 9.678 9.684 9.678h28.578c5.345 0 9.684-4.333 9.684-9.684V9.684C47.94 4.333 43.607 0 38.256 0z"/>
+                    <path fill="#FFF" d="M23.766 11.014l.971-1.678c.6-1.048 1.936-1.402 2.984-.803 1.049.6 1.403 1.936.803 2.985L19.17 27.709h6.766c2.193 0 3.421 2.577 2.468 4.363H8.57c-1.21 0-2.181-.97-2.181-2.181 0-1.21.97-2.182 2.181-2.182h5.561l7.12-12.338-2.224-3.86c-.599-1.048-.245-2.372.803-2.984 1.049-.599 2.373-.245 2.984.803l.953 1.684zM15.353 34.32l-2.098 3.638c-.599 1.048-1.935 1.402-2.984.803-1.049-.6-1.402-1.936-.803-2.985l1.558-2.696c1.762-.546 3.194-.126 4.327 1.24zm18.061-6.598h5.675c1.21 0 2.181.971 2.181 2.182 0 1.21-.97 2.18-2.18 2.18h-3.153l2.127 3.692c.6 1.049.246 2.373-.803 2.985-1.048.599-2.373.245-2.984-.803-3.583-6.215-6.274-10.865-8.06-13.963-1.827-3.152-.521-6.316.767-7.389 1.432 2.457 3.572 6.167 6.43 11.116z"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
